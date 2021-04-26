@@ -16,4 +16,4 @@ Basically , the internet is a wire. Servers and computers (clients) are both con
 
 
 
-This theory file has been reviewed by Rosa Elena Linares
+This theory file has been reviewed by Rosa Elena Linares.
