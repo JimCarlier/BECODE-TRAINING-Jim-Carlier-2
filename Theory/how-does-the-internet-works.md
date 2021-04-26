@@ -13,3 +13,7 @@ Basically , the internet is a wire. Servers and computers (clients) are both con
 2. The router send the wrapped paquets to the server called "Gmail.com"
 2. The email is then sent to another server (e.g "aol.com") after being wrapped each time it goes trough a router.
 2. The server finally send the email to the teammate.
+
+
+
+This theory file has been reviewed by Rosa Elena Linares
